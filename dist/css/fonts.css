@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Montserrat;
+    src:url('../Montserrat/Montserrat-Regular.ttf')
+}
+
+/* font-family Raleway */
+@font-face {
+    font-family: Raleway;
+    src:url('../Raleway/static/Raleway-Regular.ttf')
+}
+
